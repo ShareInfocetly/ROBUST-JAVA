@@ -8,7 +8,7 @@ System.out.println("Enter the number:");
 int num = scanner.nextInt();
 //Called the user defined function fact
 int factorial = fact(num);
-System.out.println("Factorial of entered number is: "+factorial);
+System.out.println("Factorial of given  entered number is: "+factorial);
 }
 static int fact(int n)
 {
